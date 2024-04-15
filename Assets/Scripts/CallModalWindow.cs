@@ -6,7 +6,7 @@ public class CallModalWindow : MonoBehaviour
 {
     [SerializeField]
     private GameObject _modalWindow;
-    
+
     private Button _button;
 
     private void Start()
